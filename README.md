@@ -1,3 +1,5 @@
 # VimToMari
 
-![](optimized.gif)
+<p align="center">
+  <img src="optimised.gif">
+</p>
