@@ -1,1 +1,3 @@
 # VimToMari
+
+![](optimized.gif)
